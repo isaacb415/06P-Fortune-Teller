@@ -1,0 +1,15 @@
+.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.submit {
+    margin: 20px;
+    height: 25px;
+}
+
+.input {
+    margin: 10px;
+    height: 20px;
+}
